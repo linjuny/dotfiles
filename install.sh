@@ -5,5 +5,5 @@ rm ~/.vimrc
 ln -s ${PWD}/vim/.vimrc ~/.vimrc
 vim +PluginInstall +qall
 
-cp ./bashrc ~/
-cp ./inputrc ~/
+cp ./dots/bashrc ~/
+cp ./dots/inputrc ~/
