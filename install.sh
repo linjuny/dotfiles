@@ -10,6 +10,6 @@ cp ./dots/.inputrc ~/
 
 
 cd ~
-$ git clone https://github.com/linjuny/.tmux.git
-$ ln -s -f .tmux/.tmux.conf
-$ cp .tmux/.tmux.conf.local .
+git clone https://github.com/linjuny/.tmux.git
+ln -s -f .tmux/.tmux.conf
+cp .tmux/.tmux.conf.local .
